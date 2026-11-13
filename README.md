@@ -1,4 +1,4 @@
-# 📊 Sistem Monitoring DISPANHAN
+# 📊 Sistem Monitoring DISHANPAN
 
 Aplikasi Berbasis Website Untuk Melakukan Monitoring terhadap Kestabilan dan Stabilisasi Pangan Di Jawa Tengah dengan mengimplementasikan Machine Learning ke Dalamnya.
 
@@ -17,10 +17,10 @@ Aplikasi Berbasis Website Untuk Melakukan Monitoring terhadap Kestabilan dan Sta
 
 ## ✨ Pratinjau Aplikasi
 
-Berikut adalah preview dari Aplikasi Web SISMO-DISPANHAN.
+Berikut adalah preview dari Aplikasi Web SISMO-DISHANPAN.
 
-![Tampilan Dashboard Aplikasi SISMO-DISPANHAN](https://i.postimg.cc/zDWRtHYC/tampilan1.png)
-*Gambar 1: Tampilan Halaman Dashboard SISMO-DISPANHAN.*
+![Tampilan Dashboard Aplikasi SISMO-DISHANPAN](https://i.postimg.cc/zDWRtHYC/tampilan1.png)
+*Gambar 1: Tampilan Halaman Dashboard SISMO-DISHANPAN.*
 
 ![Cloropeth Map Jawa Tengah](https://i.postimg.cc/26LBfVbf/tampilan2.png)
 *Gambar 2: Map Cloropeth menggunakan [Leaflet.js](https://leafletjs.com/) dan [data GeoJSON Kabupaten/Kota di Indonesia](https://github.com/eppofahmi/geojson-indonesia/blob/master/kota/all_kabkota_ind.geojson) .*
@@ -45,7 +45,7 @@ Berikut adalah preview dari Aplikasi Web SISMO-DISPANHAN.
 2.  **Clone Repositori Ini**  
     Buka terminal (Git Bash, Command Prompt, atau PowerShell) dan jalankan perintah berikut:
     ```bash
-    git clone https://github.com/valselt/sismo-dispanhan
+    git clone https://github.com/valselt/sismo-dishanpan
     ```
 
 3.  **Masuk Ke Direktori anda melalui terminal dengan menggunakan `cd`**  
