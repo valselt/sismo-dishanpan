@@ -31,7 +31,7 @@ Berikut adalah preview dari Aplikasi Web SISMO-DISHANPAN.
 ![Tampilan Account Center](https://i.postimg.cc/m2s10ZT0/tampilan4.png)
 *Gambar 4: Tampilan Account Center.*
 
-![Sistem Analisa Harga](https://i.postimg.cc/RhrJC4KJ/tampilan5.png)
+![Sistem Analisa Harga](https://i.postimg.cc/Fs3HN7g4/tampilan5revisi.png)
 *Gambar 5: Analisa Harga dengan [Prophet](https://facebook.github.io/prophet/).*
 
 ---
