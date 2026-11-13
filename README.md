@@ -17,7 +17,7 @@ Aplikasi Berbasis Website Untuk Melakukan Monitoring terhadap Kestabilan dan Sta
 
 ## ✨ Pratinjau Aplikasi
 
-Berikut adalah preview dari Aplikasi Web SISMO-DSIPANHAN.
+Berikut adalah preview dari Aplikasi Web SISMO-DISPANHAN.
 
 ![Tampilan Dashboard Aplikasi SISMO-DISPANHAN](https://i.postimg.cc/zDWRtHYC/tampilan1.png)
 *Gambar 1: Tampilan Halaman Dashboard SISMO-DISPANHAN.*
