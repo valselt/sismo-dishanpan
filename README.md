@@ -19,7 +19,7 @@ Aplikasi Berbasis Website Untuk Melakukan Monitoring terhadap Kestabilan dan Sta
 
 Berikut adalah preview dari Aplikasi Web SISMO-DISHANPAN.
 
-![Tampilan Dashboard Aplikasi SISMO-DISHANPAN](https://i.postimg.cc/hPxHfm5H/tampilan1revisi.png)
+![Tampilan Dashboard Aplikasi SISMO-DISHANPAN](https://i.postimg.cc/1X1rT8r0/tampilan1revisi.png)
 *Gambar 1: Tampilan Halaman Dashboard SISMO-DISHANPAN.*
 
 ![Cloropeth Map Jawa Tengah](https://i.postimg.cc/26LBfVbf/tampilan2.png)
